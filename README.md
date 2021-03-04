@@ -1,0 +1,1 @@
+# LeitorDeQrcode-Barcode
